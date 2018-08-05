@@ -1,0 +1,314 @@
+{
+  "Páginas" : {
+    "Saga-Falabella" : {
+      "Hombre" : {
+        "Polos" : [{
+                  "Codigo" : 881127678,
+                  "Colores" : "Verde",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881127678_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Basement",
+                  "Precio_intenet" : "S/ 19.90",
+                  "Precio_normal" : "S/ 49.90 ",
+                  "Tamaños" : "M,L"
+                },
+                {
+                  "Codigo" : 12785384,
+                  "Titulo": "Polo Blanco",
+                  "Colores" : "Blanco",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/12785384_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Jockey",
+                  "Precio_intenet" : "S/ 61.90 ",
+                  "Precio_normal" : "S/ 61.90  ",
+                  "Tamaños" : "S,M,L,XL"
+                },{
+                  "Codigo" : 15951035,
+                  "Titulo": "Polo Estampado Ivy Cup",
+                  "Colores" : "Crema",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/15951040_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Cortefiel",
+                  "Precio_intenet" : "S/ 31.60",
+                  "Precio_normal" : "S/ 79 ",
+                  "Tamaños" : "M,L,XL"
+                },{
+                  "Codigo" : 16233567,
+                  "Titulo": "Polo Minimal",
+                  "Colores" : "Beige,Blanco",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/16233567_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Mango",
+                  "Precio_intenet" : "S/ 89",
+                  "Precio_normal" : "S/ 89",
+                  "Tamaños" : "XS,S,M,L,XL"
+                }
+              ],
+        "Camisas" : [{
+                  "Codigo" : 881127678,
+                  "Colores" : "Verde",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881127678_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Basement",
+                  "Precio_intenet" : "S/ 19.90",
+                  "Precio_normal" : "S/ 49.90 ",
+                  "Tamaños" : "M,L"
+                },
+                {
+                  "Codigo" : 12785384,
+                  "Titulo": "Polo Blanco",
+                  "Colores" : "Blanco",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/12785384_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Jockey",
+                  "Precio_intenet" : "S/ 61.90 ",
+                  "Precio_normal" : "S/ 61.90  ",
+                  "Tamaños" : "S,M,L,XL"
+                },{
+                  "Codigo" : 15951035,
+                  "Titulo": "Polo Estampado Ivy Cup",
+                  "Colores" : "Crema",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/15951040_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Cortefiel",
+                  "Precio_intenet" : "S/ 31.60",
+                  "Precio_normal" : "S/ 79 ",
+                  "Tamaños" : "M,L,XL"
+                },{
+                  "Codigo" : 16233567,
+                  "Titulo": "Polo Minimal",
+                  "Colores" : "Beige,Blanco",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/16233567_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Mango",
+                  "Precio_intenet" : "S/ 89",
+                  "Precio_normal" : "S/ 89",
+                  "Tamaños" : "XS,S,M,L,XL"
+                }
+              ],
+        "Chompas" : [{
+                  "Codigo" : 881127678,
+                  "Colores" : "Azul,Beige",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881120519_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Basement",
+                  "Precio_intenet" : "S/ 59",
+                  "Precio_normal" : "S/ 149",
+                  "Tamaños" : "S,M,L,XL"
+                },
+                {
+                  "Codigo" : 16062624,
+                  "Titulo": "Jersey Cuello Caja",
+                  "Colores" : "Azul,Gris,Morado,Verde",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/16062624_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Cortefiel",
+                  "Precio_intenet" : "S/ 149",
+                  "Precio_normal" : "S/ 149",
+                  "Tamaños" : "S,M,L,XL"
+                },{
+                  "Codigo" : 881161568,
+                  "Titulo": "Chompa",
+                  "Colores" : "Azul,Borgoña,Celeste,Blanco",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881161568_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Basement",
+                  "Precio_intenet" : "S/ 99",
+                  "Precio_normal" : "S/ 99 ",
+                  "Tamaños" : "S,M,L,XL"
+                },{
+                  "Codigo" : 16233567,
+                  "Titulo": "Chompa",
+                  "Colores" : "Azul,Borgoña",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881119394_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "University Club",
+                  "Precio_intenet" : "S/ 89",
+                  "Precio_normal" : "S/ 149",
+                  "Tamaños" : "S,M,L,XL"
+                }
+              ],
+        "Casacas" : [{
+                  "Codigo" : 881119470,
+                  "Colores" : "Verde,Azul",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881119470_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Basement",
+                  "Precio_intenet" : "S/ 99",
+                  "Precio_normal" : "S/ 279",
+                  "Tamaños" : "S,M,L,XL"
+                },
+                {
+                  "Codigo" : 16264776,
+                  "Titulo": "Casaca Djoba",
+                  "Colores" : "Negro,Verde",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/16264776_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Mango",
+                  "Precio_intenet" : "S/ 279",
+                  "Precio_normal" : "S/ 279",
+                  "Tamaños" : "S,M,L,XL,XXL"
+                },{
+                  "Codigo" : 16264718,
+                  "Titulo": "Casaca Ryan2",
+                  "Colores" : "Azul",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/15951040_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Mango",
+                  "Precio_intenet" : "S/ 229",
+                  "Precio_normal" : "S/ 229",
+                  "Tamaños" : "S,M,L,XL,XXL"
+                },{
+                  "Codigo" : 881161337,
+                  "Titulo": "Casaca",
+                  "Colores" : "Cafe",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881161337_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Newport",
+                  "Precio_intenet" : "S/ 129",
+                  "Precio_normal" : "S/ 129",
+                  "Tamaños" : "S,M,L,XL"
+                }
+              ]
+      },
+      "Mujer" : {
+        "Polos" : [{
+                  "Codigo" : 881127678,
+                  "Colores" : "Verde",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881127678_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Basement",
+                  "Precio_intenet" : "S/ 19.90",
+                  "Precio_normal" : "S/ 49.90 ",
+                  "Tamaños" : "M,L"
+                },
+                {
+                  "Codigo" : 12785384,
+                  "Titulo": "Polo Blanco",
+                  "Colores" : "Blanco",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/12785384_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Jockey",
+                  "Precio_intenet" : "S/ 61.90 ",
+                  "Precio_normal" : "S/ 61.90  ",
+                  "Tamaños" : "S,M,L,XL"
+                },{
+                  "Codigo" : 15951035,
+                  "Titulo": "Polo Estampado Ivy Cup",
+                  "Colores" : "Crema",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/15951040_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Cortefiel",
+                  "Precio_intenet" : "S/ 31.60",
+                  "Precio_normal" : "S/ 79 ",
+                  "Tamaños" : "M,L,XL"
+                },{
+                  "Codigo" : 16233567,
+                  "Titulo": "Polo Minimal",
+                  "Colores" : "Beige,Blanco",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/16233567_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Mango",
+                  "Precio_intenet" : "S/ 89",
+                  "Precio_normal" : "S/ 89",
+                  "Tamaños" : "XS,S,M,L,XL"
+                }
+              ],
+        "Camisas" : [{
+                  "Codigo" : 881127678,
+                  "Colores" : "Verde",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881127678_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Basement",
+                  "Precio_intenet" : "S/ 19.90",
+                  "Precio_normal" : "S/ 49.90 ",
+                  "Tamaños" : "M,L"
+                },
+                {
+                  "Codigo" : 12785384,
+                  "Titulo": "Polo Blanco",
+                  "Colores" : "Blanco",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/12785384_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Jockey",
+                  "Precio_intenet" : "S/ 61.90 ",
+                  "Precio_normal" : "S/ 61.90  ",
+                  "Tamaños" : "S,M,L,XL"
+                },{
+                  "Codigo" : 15951035,
+                  "Titulo": "Polo Estampado Ivy Cup",
+                  "Colores" : "Crema",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/15951040_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Cortefiel",
+                  "Precio_intenet" : "S/ 31.60",
+                  "Precio_normal" : "S/ 79 ",
+                  "Tamaños" : "M,L,XL"
+                },{
+                  "Codigo" : 16233567,
+                  "Titulo": "Polo Minimal",
+                  "Colores" : "Beige,Blanco",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/16233567_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Mango",
+                  "Precio_intenet" : "S/ 89",
+                  "Precio_normal" : "S/ 89",
+                  "Tamaños" : "XS,S,M,L,XL"
+                }
+              ],
+        "Chompas" : [{
+                  "Codigo" : 881127678,
+                  "Colores" : "Azul,Beige",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881120519_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Basement",
+                  "Precio_intenet" : "S/ 59",
+                  "Precio_normal" : "S/ 149",
+                  "Tamaños" : "S,M,L,XL"
+                },
+                {
+                  "Codigo" : 16062624,
+                  "Titulo": "Jersey Cuello Caja",
+                  "Colores" : "Azul,Gris,Morado,Verde",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/16062624_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Cortefiel",
+                  "Precio_intenet" : "S/ 149",
+                  "Precio_normal" : "S/ 149",
+                  "Tamaños" : "S,M,L,XL"
+                },{
+                  "Codigo" : 881161568,
+                  "Titulo": "Chompa",
+                  "Colores" : "Azul,Borgoña,Celeste,Blanco",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881161568_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Basement",
+                  "Precio_intenet" : "S/ 99",
+                  "Precio_normal" : "S/ 99 ",
+                  "Tamaños" : "S,M,L,XL"
+                },{
+                  "Codigo" : 16233567,
+                  "Titulo": "Chompa",
+                  "Colores" : "Azul,Borgoña",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881119394_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "University Club",
+                  "Precio_intenet" : "S/ 89",
+                  "Precio_normal" : "S/ 149",
+                  "Tamaños" : "S,M,L,XL"
+                }
+              ],
+        "Casacas" : [{
+                  "Codigo" : 881119470,
+                  "Colores" : "Verde,Azul",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881119470_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Basement",
+                  "Precio_intenet" : "S/ 99",
+                  "Precio_normal" : "S/ 279",
+                  "Tamaños" : "S,M,L,XL"
+                },
+                {
+                  "Codigo" : 16264776,
+                  "Titulo": "Casaca Djoba",
+                  "Colores" : "Negro,Verde",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/16264776_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Mango",
+                  "Precio_intenet" : "S/ 279",
+                  "Precio_normal" : "S/ 279",
+                  "Tamaños" : "S,M,L,XL,XXL"
+                },{
+                  "Codigo" : 16264718,
+                  "Titulo": "Casaca Ryan2",
+                  "Colores" : "Azul",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/15951040_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Mango",
+                  "Precio_intenet" : "S/ 229",
+                  "Precio_normal" : "S/ 229",
+                  "Tamaños" : "S,M,L,XL,XXL"
+                },{
+                  "Codigo" : 881161337,
+                  "Titulo": "Casaca",
+                  "Colores" : "Cafe",
+                  "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/881161337_1?$producto308$&wid=472&hei=472",
+                  "Marca" : "Newport",
+                  "Precio_intenet" : "S/ 129",
+                  "Precio_normal" : "S/ 129",
+                  "Tamaños" : "S,M,L,XL"
+                }
+              ]
+      }
+    }
+  }
+}
